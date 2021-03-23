@@ -29,7 +29,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "single-tls-tunnel": "~1.0.0"
+    "single-tls-tunnel": "2.0.0-dev"
   },
   "devDependencies": {
     "grunt": "0.3.17",
